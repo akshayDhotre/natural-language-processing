@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data files
+latent_diriclet_allocation/data/papers.csv
