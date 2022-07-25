@@ -130,3 +130,8 @@ dmypy.json
 
 # Data files
 latent_diriclet_allocation/data/papers.csv
+sentiment_analysis/models/universal-sentence-encoder-multilingual-large_3.tar.gz
+sentiment_analysis/data/Hotel_Reviews.csv
+sentiment_analysis/models/universal-sentence-encoder-multilingual-large_3/saved_model.pb
+sentiment_analysis/models/universal-sentence-encoder-multilingual-large_3/variables/variables.data-00000-of-00001
+sentiment_analysis/models/universal-sentence-encoder-multilingual-large_3/variables/variables.index
