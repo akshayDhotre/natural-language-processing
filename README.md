@@ -1,2 +1,2 @@
-# natural-language_processing
-Repository for storing all NLP projects
+# natural-language-processing
+Repository for storing all NLP study and mini projects
